@@ -1,7 +1,7 @@
 # Hi There, I’m Sachin Priyadarshi 👋  
 
 💻 **Software Engineer** | Java • Spring Boot • AWS • System Design  • AI/ML 
-📍 Currently based in Bangalore  
+📍 Currently Based In Bangalore  
 
 ---
 
@@ -18,8 +18,3 @@
 - **Frameworks:** Spring Boot, REST APIs, Microservices  
 - **Cloud & Tools:** AWS (Lambda, EC2, S3, Redshift, SQS, EKS, API Gateway), Jenkins, Kubernetes  
 - **Other:** System Design, DSA, Git, GenAI
-
----
-
-📫 **Let’s Connect!**  
-- [LinkedIn](#) | [Email](#) | [Portfolio](#)  
