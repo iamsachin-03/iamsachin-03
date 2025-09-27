@@ -1,6 +1,6 @@
-# Hi there, I’m Sachin Priyadarshi 👋  
+# Hi There, I’m Sachin Priyadarshi 👋  
 
-💻 **Software Engineer** | Java • Spring Boot • AWS • System Design  
+💻 **Software Engineer** | Java • Spring Boot • AWS • System Design  • AI/ML 
 📍 Currently based in Bangalore  
 
 ---
@@ -14,29 +14,10 @@
 ---
 
 ## 🛠️ Tech Stack  
-- **Languages:** Java, Python  
+- **Languages:** Java, Python , Javascript 
 - **Frameworks:** Spring Boot, REST APIs, Microservices  
-- **Cloud & Tools:** AWS (Lambda, EC2, S3, Redshift, SQS, SNS), Docker  
-- **Other:** System Design, DSA, Problem Solving  
-
----
-
-## 🚀 Current Focus  
-- Leveling up in **Java, AWS, and AI/ML**  
-- Preparing for **Big Tech interviews** (Google, etc.)  
-- Building **side projects & automation tools** powered by GenAI  
-
----
-
-## 📈 GitHub Stats  
-![Sachin's GitHub stats](https://github-readme-stats.vercel.app/api?username=sachinpriyadarshi&show_icons=true&theme=radical)  
-
----
-
-## ✨ Fun Side  
-- 🏃 Fitness enthusiast — working towards a **lean, strong body**  
-- 🌏 Avid traveler — exploring **places, cultures & food**  
-- 💡 Firm believer in **growth through reflection and curiosity**  
+- **Cloud & Tools:** AWS (Lambda, EC2, S3, Redshift, SQS, EKS, API Gateway), Jenkins, Kubernetes  
+- **Other:** System Design, DSA, Git, GenAI
 
 ---
 
