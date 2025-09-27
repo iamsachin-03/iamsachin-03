@@ -9,7 +9,7 @@
 ✨ Passionate about **building scalable distributed systems**  
 🧠 Constantly **learning through curiosity** and refining my craft  
 ⚡ Believe in balancing **tech + fitness + meaningful living**  
-🌍 Love **travel, walking, and deep conversations** that spark ideas  
+🌍 Love **travel, walking, and meaningful conversations**  
 
 ---
 
